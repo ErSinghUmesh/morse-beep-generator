@@ -4,7 +4,7 @@ Tkinter GUI app which creates morse code from given text and plays Morse Beeps .
 
 I have also created exe file for this.
 
-you can download rar file and after extracting it, you can simple go to main.exe file and code and beep generator will open.
+you can download rar file and after extracting it, you can simple go to main.exe file and code & beep generator will open.
 
 
 link for file:-
